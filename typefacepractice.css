@@ -1,0 +1,640 @@
+body{ 
+
+}
+	
+	.bstripe1 {
+	  width: 100vw;
+	  height: 10px;
+      
+      background: #0d47a1;
+      position: absolute;
+      top: 0px;
+      left: 00px;
+	}
+
+	.bstripe2 {
+	  width: 100vw;
+	  height: 10px;
+      background: #1565c0;
+      position: absolute;
+      top: 10px;
+      left: 0px;
+	}
+
+	.bstripe3 {
+	  width: 100vw;
+	  height: 10px;
+      background: #1976d2;
+      position: absolute;
+      top: 20px;
+      left: 0px;
+	}
+
+	.bstripe4 {
+	  width: 100vw;
+	  height: 10px;
+      background: #1e88e5;
+      position: absolute;
+      top: 30px;
+      left: 0px;
+	}
+
+	.bstripe5 {
+	  width: 100vw;
+	  height: 10px;
+      background: #2196f3;
+      position: absolute;
+      top: 40px;
+      left: 0px;
+	}
+
+	.bstripe6 {
+	  width: 100vw;
+	  height: 10px;
+      background: #42a5f5;
+      position: absolute;
+      top: 50px;
+      left: 0px;
+	}
+
+	.bstripe7 {
+	  width: 100vw;
+	  height: 10px;
+      background: #64b5f6;
+      position: absolute;
+      top: 60px;
+      left: 0px;
+	}
+
+	.bstripe8 {
+	  width: 100vw;
+	  height: 10px;
+      background: #90caf9;
+      position: absolute;
+      top: 70px;
+      left: 0px;
+	}
+
+	.bstripe9 {
+	  width: 100vw;
+	  height: 10px;
+      background: #bbdefb;
+      position: absolute;
+      top: 80px;
+      left: 0px;
+	}
+
+	.bstripe10 {
+	  width: 100vw;
+	  height: 10px;
+      background: #e3f2fd;
+      position: absolute;
+      top: 90px;
+      left: 0px;
+	}
+
+
+
+
+	.bstripe11 {
+	  width: 100vw;
+	  height: 10px;
+      
+      background: #0d47a1;
+      position: absolute;
+      top: 100px;
+      left: 00px;
+	}
+
+	.bstripe12 {
+	  width: 100vw;
+	  height: 10px;
+      background: #1565c0;
+      position: absolute;
+      top: 110px;
+      left: 0px;
+	}
+
+	.bstripe13 {
+	  width: 100vw;
+	  height: 10px;
+      background: #1976d2;
+      position: absolute;
+      top: 120px;
+      left: 0px;
+	}
+
+	.bstripe14 {
+	  width: 100vw;
+	  height: 10px;
+      background: #1e88e5;
+      position: absolute;
+      top: 130px;
+      left: 0px;
+	}
+
+	.bstripe15 {
+	  width: 100vw;
+	  height: 10px;
+      background: #2196f3;
+      position: absolute;
+      top: 140px;
+      left: 0px;
+	}
+
+	.bstripe16 {
+	  width: 100vw;
+	  height: 10px;
+      background: #42a5f5;
+      position: absolute;
+      top: 150px;
+      left: 0px;
+	}
+
+	.bstripe17 {
+	  width: 100vw;
+	  height: 10px;
+      background: #64b5f6;
+      position: absolute;
+      top: 160px;
+      left: 0px;
+	}
+
+	.bstripe18 {
+	  width: 100vw;
+	  height: 10px;
+      background: #90caf9;
+      position: absolute;
+      top: 170px;
+      left: 0px;
+	}
+
+	.bstripe19 {
+	  width: 100vw;
+	  height: 10px;
+      background: #bbdefb;
+      position: absolute;
+      top: 180px;
+      left: 0px;
+	}
+
+	.bxstripe20 {
+	  width: 100vw;
+	  height: 10px;
+      background: #e3f2fd;
+      position: absolute;
+      top: 190px;
+      left: 0px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+	.bstripe21 {
+	  width: 100vw;
+	  height: 10px;
+      
+      background: #0d47a1;
+      position: absolute;
+      top: 200px;
+      left: 00px;
+	}
+
+	.bstripe22 {
+	  width: 100vw;
+	  height: 10px;
+      background: #1565c0;
+      position: absolute;
+      top: 210px;
+      left: 0px;
+	}
+
+	.bstripe23 {
+	  width: 100vw;
+	  height: 10px;
+      background: #1976d2;
+      position: absolute;
+      top: 220px;
+      left: 0px;
+	}
+
+	.bstripe24 {
+	  width: 100vw;
+	  height: 10px;
+      background: #1e88e5;
+      position: absolute;
+      top: 230px;
+      left: 0px;
+	}
+
+	.bstripe25 {
+	  width: 100vw;
+	  height: 10px;
+      background: #2196f3;
+      position: absolute;
+      top: 240px;
+      left: 0px;
+	}
+
+	.bstripe26 {
+	  width: 100vw;
+	  height: 10px;
+      background: #42a5f5;
+      position: absolute;
+      top: 250px;
+      left: 0px;
+	}
+
+	.bstripe27 {
+	  width: 100vw;
+	  height: 10px;
+      background: #64b5f6;
+      position: absolute;
+      top: 260px;
+      left: 0px;
+	}
+
+	.bstripe28 {
+	  width: 100vw;
+	  height: 10px;
+      background: #90caf9;
+      position: absolute;
+      top: 270px;
+      left: 0px;
+	}
+
+	.bstripe29 {
+	  width: 100vw;
+	  height: 10px;
+      background: #bbdefb;
+      position: absolute;
+      top: 280px;
+      left: 0px;
+	}
+
+	.bstripe30 {
+	  width: 100vw;
+	  height: 10px;
+      background: #e3f2fd;
+      position: absolute;
+      top: 290px;
+      left: 0px;
+	}
+
+
+
+
+
+
+
+
+
+	.bstripe31 {
+	  width: 100vw;
+	  height: 10px;
+      
+      background: #0d47a1;
+      position: absolute;
+      top: 300px;
+      left: 00px;
+	}
+
+	.bstripe32 {
+	  width: 100vw;
+	  height: 10px;
+      background: #1565c0;
+      position: absolute;
+      top: 310px;
+      left: 0px;
+	}
+
+	.bstripe33 {
+	  width: 100vw;
+	  height: 10px;
+      background: #1976d2;
+      position: absolute;
+      top: 320px;
+      left: 0px;
+	}
+
+	.bstripe34 {
+	  width: 100vw;
+	  height: 10px;
+      background: #1e88e5;
+      position: absolute;
+      top: 330px;
+      left: 0px;
+	}
+
+	.bstripe35 {
+	  width: 100vw;
+	  height: 10px;
+      background: #2196f3;
+      position: absolute;
+      top: 340px;
+      left: 0px;
+	}
+
+	.bstripe36 {
+	  width: 100vw;
+	  height: 10px;
+      background: #42a5f5;
+      position: absolute;
+      top: 350px;
+      left: 0px;
+	}
+
+	.bstripe37 {
+	  width: 100vw;
+	  height: 10px;
+      background: #64b5f6;
+      position: absolute;
+      top: 360px;
+      left: 0px;
+	}
+
+	.bstripe38 {
+	  width: 100vw;
+	  height: 10px;
+      background: #90caf9;
+      position: absolute;
+      top: 370px;
+      left: 0px;
+	}
+
+	.bstripe39 {
+	  width: 100vw;
+	  height: 10px;
+      background: #bbdefb;
+      position: absolute;
+      top: 380px;
+      left: 0px;
+	}
+
+	.bstripe40 {
+	  width: 100vw;
+	  height: 10px;
+      background: #e3f2fd;
+      position: absolute;
+      top: 390px;
+      left: 0px;
+	}
+
+
+
+
+
+
+	.active1 {
+  background: #e3f2fd;
+}
+
+.active2 {
+  background: #bbdefb;
+}
+
+.active3 {
+  background: #90caf9;
+}
+
+.active4 {
+  background: #64b5f6;
+}
+
+.active5 {
+  background: #42a5f5;
+}
+
+.active6{
+  background: #2196f3;
+}
+
+.active7{
+  background: #1e88e5;
+  transition: all 0.5s ease
+}
+
+.active8 {
+  background: #1976d2;
+  transition: all 0.5s ease
+}
+
+.active9 {
+  background: #1565c0;
+  transition: all 0.5s ease
+}
+
+.active10 {
+  background: #0d47a1;
+  transition: all 0.5s ease
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+	.bstripe1:hover {
+ 		background: #e3f2fd;
+ 		transition-delay: 
+ 	}
+
+ 	.bstripe2:hover {
+ 		background: #bbdefb;
+ 	}
+
+ 	.bstripe3:hover {
+ 		background: #90caf9;
+ 	}
+
+ 	.bstripe4:hover {
+ 		background: #64b5f6;
+ 	}
+
+ 	.bstripe5:hover {
+ 		background: #42a5f5;
+ 	}
+
+ 	.bstripe6:hover {
+ 		background: #2196f3;
+ 	}
+
+ 	.bstripe7:hover {
+ 		background: #1e88e5;
+
+ 	}
+
+ 	.bstripe8:hover {
+ 		background: #1976d2;
+ 	}
+
+ 	.bstripe9:hover {
+ 		background: #1565c0;
+ 	}
+
+ 	.bstripe10:hover {
+ 		background: #0d47a1;
+ 	}
+
+
+
+
+
+	.bstripe11:hover {
+ 		background: #e3f2fd;
+ 	}
+
+ 	.bstripe12:hover {
+ 		background: #bbdefb;
+ 	}
+
+ 	.bstripe13:hover {
+ 		background: #90caf9;
+ 	}
+
+ 	.bstripe14:hover {
+ 		background: #64b5f6;
+ 	}
+
+ 	.bstripe15:hover {
+ 		background: #42a5f5;
+ 	}
+
+ 	.bstripe16:hover {
+ 		background: #2196f3;
+ 	}
+
+ 	.bstripe17:hover {
+ 		background: #1e88e5;
+
+ 	}
+
+ 	.bstripe18:hover {
+ 		background: #1976d2;
+ 	}
+
+ 	.bstripe19:hover {
+ 		background: #1565c0;
+ 	}
+
+ 	.bstripe20:hover {
+ 		background: #0d47a1;
+ 	}
+
+
+
+
+
+
+
+
+
+
+ 	.bstripe21:hover {
+ 		background: #e3f2fd;
+ 	}
+
+ 	.bstripe22:hover {
+ 		background: #bbdefb;
+ 	}
+
+ 	.bstripe23:hover {
+ 		background: #90caf9;
+ 	}
+
+ 	.bstripe24:hover {
+ 		background: #64b5f6;
+ 	}
+
+ 	.bstripe25:hover {
+ 		background: #42a5f5;
+ 	}
+
+ 	.bstripe26:hover {
+ 		background: #2196f3;
+ 	}
+
+ 	.bstripe27:hover {
+ 		background: #1e88e5;
+
+ 	}
+
+ 	.bstripe28:hover {
+ 		background: #1976d2;
+ 	}
+
+ 	.bstripe29:hover {
+ 		background: #1565c0;
+ 	}
+
+ 	.bstripe30:hover {
+ 		background: #0d47a1;
+ 	}
+
+
+
+
+
+ 	.bstripe31:hover {
+ 		background: #e3f2fd;
+ 		transition-delay: 
+ 	}
+
+ 	.bstripe32:hover {
+ 		background: #bbdefb;
+ 	}
+
+ 	.bstripe33:hover {
+ 		background: #90caf9;
+ 	}
+
+ 	.bstripe34:hover {
+ 		background: #64b5f6;
+ 	}
+
+ 	.bstripe35:hover {
+ 		background: #42a5f5;
+ 	}
+
+ 	.bstripe36:hover {
+ 		background: #2196f3;
+ 	}
+
+ 	.bstripe37:hover {
+ 		background: #1e88e5;
+
+ 	}
+
+ 	.bstripe38:hover {
+ 		background: #1976d2;
+ 	}
+
+ 	.bstripe39:hover {
+ 		background: #1565c0;
+ 	}
+
+ 	.bstripe40:hover {
+ 		background: #0d47a1;
+ 	}
+
+*/
+
+
+
+
+ 	
