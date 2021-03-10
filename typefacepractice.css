@@ -2,11 +2,33 @@ body{
 }
 
 
-.everyhting {
+.everything {
+	transform: scale(0.7);
 }
 
+
+
+.letters {
+	width: 1000px;
+	height: 1000px;
+	position: absolute;
+	top: 0px;
+	left: 10px;
+	pointer-events: none;
+
+
+}
+
+.background{
+	position: relative;
+	top: 50%;
+	left: 10px
+	width: 1000px;
+	height: 500px;
+
+}
 	.bstripe1 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       
       background-color: #0d47a1;
@@ -16,7 +38,7 @@ body{
   }
 
   .bstripe2 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #1565c0;
       position: absolute;
@@ -25,7 +47,7 @@ body{
   }
 
   .bstripe3 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #1976d2;
       position: absolute;
@@ -34,7 +56,7 @@ body{
   }
 
   .bstripe4 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #1e88e5;
       position: absolute;
@@ -43,7 +65,7 @@ body{
   }
 
   .bstripe5 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #2196f3;
       position: absolute;
@@ -52,7 +74,7 @@ body{
   }
 
   .bstripe6 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #42a5f5;
       position: absolute;
@@ -61,7 +83,7 @@ body{
   }
 
   .bstripe7 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #64b5f6;
       position: absolute;
@@ -70,7 +92,7 @@ body{
   }
 
   .bstripe8 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #90caf9;
       position: absolute;
@@ -79,7 +101,7 @@ body{
   }
 
   .bstripe9 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #bbdefb;
       position: absolute;
@@ -88,7 +110,7 @@ body{
   }
 
   .bstripe10 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #e3f2fd;
       position: absolute;
@@ -100,7 +122,7 @@ body{
 
 
   .bstripe11 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       
       background-color: #0d47a1;
@@ -110,7 +132,7 @@ body{
   }
 
   .bstripe12 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #1565c0;
       position: absolute;
@@ -119,7 +141,7 @@ body{
   }
 
   .bstripe13 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #1976d2;
       position: absolute;
@@ -128,7 +150,7 @@ body{
   }
 
   .bstripe14 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #1e88e5;
       position: absolute;
@@ -137,7 +159,7 @@ body{
   }
 
   .bstripe15 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #2196f3;
       position: absolute;
@@ -146,7 +168,7 @@ body{
   }
 
   .bstripe16 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #42a5f5;
       position: absolute;
@@ -155,7 +177,7 @@ body{
   }
 
   .bstripe17 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #64b5f6;
       position: absolute;
@@ -164,7 +186,7 @@ body{
   }
 
   .bstripe18 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #90caf9;
       position: absolute;
@@ -173,7 +195,7 @@ body{
   }
 
   .bstripe19 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #bbdefb;
       position: absolute;
@@ -182,7 +204,7 @@ body{
   }
 
   .bxstripe20 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #e3f2fd;
       position: absolute;
@@ -201,7 +223,7 @@ body{
 
 
   .bstripe21 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       
       background-color: #0d47a1;
@@ -211,7 +233,7 @@ body{
   }
 
   .bstripe22 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #1565c0;
       position: absolute;
@@ -220,7 +242,7 @@ body{
   }
 
   .bstripe23 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #1976d2;
       position: absolute;
@@ -229,7 +251,7 @@ body{
   }
 
   .bstripe24 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #1e88e5;
       position: absolute;
@@ -238,7 +260,7 @@ body{
   }
 
   .bstripe25 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #2196f3;
       position: absolute;
@@ -247,7 +269,7 @@ body{
   }
 
   .bstripe26 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #42a5f5;
       position: absolute;
@@ -256,7 +278,7 @@ body{
   }
 
   .bstripe27 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #64b5f6;
       position: absolute;
@@ -265,7 +287,7 @@ body{
   }
 
   .bstripe28 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #90caf9;
       position: absolute;
@@ -274,7 +296,7 @@ body{
   }
 
   .bstripe29 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #bbdefb;
       position: absolute;
@@ -283,7 +305,7 @@ body{
   }
 
   .bstripe30 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #e3f2fd;
       position: absolute;
@@ -300,7 +322,7 @@ body{
 
 
   .bstripe31 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       
       background-color: #0d47a1;
@@ -310,7 +332,7 @@ body{
   }
 
   .bstripe32 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #1565c0;
       position: absolute;
@@ -319,7 +341,7 @@ body{
   }
 
   .bstripe33 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #1976d2;
       position: absolute;
@@ -328,7 +350,7 @@ body{
   }
 
   .bstripe34 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #1e88e5;
       position: absolute;
@@ -337,7 +359,7 @@ body{
   }
 
   .bstripe35 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #2196f3;
       position: absolute;
@@ -346,7 +368,7 @@ body{
   }
 
   .bstripe36 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #42a5f5;
       position: absolute;
@@ -355,7 +377,7 @@ body{
   }
 
   .bstripe37 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #64b5f6;
       position: absolute;
@@ -364,7 +386,7 @@ body{
   }
 
   .bstripe38 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #90caf9;
       position: absolute;
@@ -373,7 +395,7 @@ body{
   }
 
   .bstripe39 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #bbdefb;
       position: absolute;
@@ -382,7 +404,7 @@ body{
   }
 
   .bstripe40 {
-    width: 100vw;
+    width: 1000px;
     height: 10px;
       background-color: #e3f2fd;
       position: absolute;
@@ -390,6 +412,580 @@ body{
       left: 0px;
   }
 
+
+
+
+
+
+.bstripe41 {
+    width: 1000px;
+    height: 10px;
+      
+      background-color: #0d47a1;
+      position: absolute;
+      top: 400px;
+      left: 00px;
+  }
+
+  .bstripe42 {
+    width: 1000px;
+    height: 10px;
+      background-color: #1565c0;
+      position: absolute;
+      top: 410px;
+      left: 0px;
+  }
+
+  .bstripe43 {
+    width: 1000px;
+    height: 10px;
+      background-color: #1976d2;
+      position: absolute;
+      top: 420px;
+      left: 0px;
+  }
+
+  .bstripe44 {
+    width: 1000px;
+    height: 10px;
+      background-color: #1e88e5;
+      position: absolute;
+      top: 430px;
+      left: 0px;
+  }
+
+  .bstripe45 {
+    width: 1000px;
+    height: 10px;
+      background-color: #2196f3;
+      position: absolute;
+      top: 440px;
+      left: 0px;
+  }
+
+  .bstripe46 {
+    width: 1000px;
+    height: 10px;
+      background-color: #42a5f5;
+      position: absolute;
+      top: 450px;
+      left: 0px;
+  }
+
+  .bstripe47 {
+    width: 1000px;
+    height: 10px;
+      background-color: #64b5f6;
+      position: absolute;
+      top: 460px;
+      left: 0px;
+  }
+
+  .bstripe48 {
+    width: 1000px;
+    height: 10px;
+      background-color: #90caf9;
+      position: absolute;
+      top: 470px;
+      left: 0px;
+  }
+
+  .bstripe49 {
+    width: 1000px;
+    height: 10px;
+      background-color: #bbdefb;
+      position: absolute;
+      top: 480px;
+      left: 0px;
+  }
+
+  .bstripe50 {
+    width: 1000px;
+    height: 10px;
+      background-color: #e3f2fd;
+      position: absolute;
+      top: 490px;
+      left: 0px;
+  }
+
+
+
+
+
+.bstripe51 {
+    width: 1000px;
+    height: 10px;
+      
+      background-color: #0d47a1;
+      position: absolute;
+      top: 500px;
+      left: 00px;
+  }
+
+  .bstripe52 {
+    width: 1000px;
+    height: 10px;
+      background-color: #1565c0;
+      position: absolute;
+      top: 510px;
+      left: 0px;
+  }
+
+  .bstripe53 {
+    width: 1000px;
+    height: 10px;
+      background-color: #1976d2;
+      position: absolute;
+      top: 520px;
+      left: 0px;
+  }
+
+  .bstripe54 {
+    width: 1000px;
+    height: 10px;
+      background-color: #1e88e5;
+      position: absolute;
+      top: 530px;
+      left: 0px;
+  }
+
+  .bstripe55 {
+    width: 1000px;
+    height: 10px;
+      background-color: #2196f3;
+      position: absolute;
+      top: 540px;
+      left: 0px;
+  }
+
+  .bstripe56 {
+    width: 1000px;
+    height: 10px;
+      background-color: #42a5f5;
+      position: absolute;
+      top: 550px;
+      left: 0px;
+  }
+
+  .bstripe57 {
+    width: 1000px;
+    height: 10px;
+      background-color: #64b5f6;
+      position: absolute;
+      top: 560px;
+      left: 0px;
+  }
+
+  .bstripe58 {
+    width: 1000px;
+    height: 10px;
+      background-color: #90caf9;
+      position: absolute;
+      top: 570px;
+      left: 0px;
+  }
+
+  .bstripe59 {
+    width: 1000px;
+    height: 10px;
+      background-color: #bbdefb;
+      position: absolute;
+      top: 580px;
+      left: 0px;
+  }
+
+  .bstripe60 {
+    width: 1000px;
+    height: 10px;
+      background-color: #e3f2fd;
+      position: absolute;
+      top: 590px;
+      left: 0px;
+  }
+
+
+
+
+
+
+  .bstripe61 {
+    width: 1000px;
+    height: 10px;
+      
+      background-color: #0d47a1;
+      position: absolute;
+      top: 600px;
+      left: 00px;
+  }
+
+  .bstripe62 {
+    width: 1000px;
+    height: 10px;
+      background-color: #1565c0;
+      position: absolute;
+      top: 610px;
+      left: 0px;
+  }
+
+  .bstripe63 {
+    width: 1000px;
+    height: 10px;
+      background-color: #1976d2;
+      position: absolute;
+      top: 620px;
+      left: 0px;
+  }
+
+  .bstripe64 {
+    width: 1000px;
+    height: 10px;
+      background-color: #1e88e5;
+      position: absolute;
+      top: 630px;
+      left: 0px;
+  }
+
+  .bstripe65 {
+    width: 1000px;
+    height: 10px;
+      background-color: #2196f3;
+      position: absolute;
+      top: 640px;
+      left: 0px;
+  }
+
+  .bstripe66 {
+    width: 1000px;
+    height: 10px;
+      background-color: #42a5f5;
+      position: absolute;
+      top: 650px;
+      left: 0px;
+  }
+
+  .bstripe67 {
+    width: 1000px;
+    height: 10px;
+      background-color: #64b5f6;
+      position: absolute;
+      top: 660px;
+      left: 0px;
+  }
+
+  .bstripe68 {
+    width: 1000px;
+    height: 10px;
+      background-color: #90caf9;
+      position: absolute;
+      top: 670px;
+      left: 0px;
+  }
+
+  .bstripe69 {
+    width: 1000px;
+    height: 10px;
+      background-color: #bbdefb;
+      position: absolute;
+      top: 680px;
+      left: 0px;
+  }
+
+  .bstripe70 {
+    width: 1000px;
+    height: 10px;
+      background-color: #e3f2fd;
+      position: absolute;
+      top: 690px;
+      left: 0px;
+  }
+
+
+
+
+
+  .bstripe71 {
+    width: 1000px;
+    height: 10px;
+      
+      background-color: #0d47a1;
+      position: absolute;
+      top: 700px;
+      left: 00px;
+  }
+
+  .bstripe72 {
+    width: 1000px;
+    height: 10px;
+      background-color: #1565c0;
+      position: absolute;
+      top: 710px;
+      left: 0px;
+  }
+
+  .bstripe73 {
+    width: 1000px;
+    height: 10px;
+      background-color: #1976d2;
+      position: absolute;
+      top: 720px;
+      left: 0px;
+  }
+
+  .bstripe74 {
+    width: 1000px;
+    height: 10px;
+      background-color: #1e88e5;
+      position: absolute;
+      top: 730px;
+      left: 0px;
+  }
+
+  .bstripe75 {
+    width: 1000px;
+    height: 10px;
+      background-color: #2196f3;
+      position: absolute;
+      top: 740px;
+      left: 0px;
+  }
+
+  .bstripe76 {
+    width: 1000px;
+    height: 10px;
+      background-color: #42a5f5;
+      position: absolute;
+      top: 750px;
+      left: 0px;
+  }
+
+  .bstripe77 {
+    width: 1000px;
+    height: 10px;
+      background-color: #64b5f6;
+      position: absolute;
+      top: 760px;
+      left: 0px;
+  }
+
+  .bstripe78 {
+    width: 1000px;
+    height: 10px;
+      background-color: #90caf9;
+      position: absolute;
+      top: 770px;
+      left: 0px;
+  }
+
+  .bstripe79 {
+    width: 1000px;
+    height: 10px;
+      background-color: #bbdefb;
+      position: absolute;
+      top: 780px;
+      left: 0px;
+  }
+
+  .bstripe80 {
+    width: 1000px;
+    height: 10px;
+      background-color: #e3f2fd;
+      position: absolute;
+      top: 790px;
+      left: 0px;
+  }
+
+
+
+
+
+
+
+    .bstripe81 {
+    width: 1000px;
+    height: 10px;
+      
+      background-color: #0d47a1;
+      position: absolute;
+      top: 800px;
+      left: 00px;
+  }
+
+  .bstripe82 {
+    width: 1000px;
+    height: 10px;
+      background-color: #1565c0;
+      position: absolute;
+      top: 810px;
+      left: 0px;
+  }
+
+  .bstripe83 {
+    width: 1000px;
+    height: 10px;
+      background-color: #1976d2;
+      position: absolute;
+      top: 820px;
+      left: 0px;
+  }
+
+  .bstripe84 {
+    width: 1000px;
+    height: 10px;
+      background-color: #1e88e5;
+      position: absolute;
+      top: 830px;
+      left: 0px;
+  }
+
+  .bstripe85 {
+    width: 1000px;
+    height: 10px;
+      background-color: #2196f3;
+      position: absolute;
+      top: 840px;
+      left: 0px;
+  }
+
+  .bstripe86 {
+    width: 1000px;
+    height: 10px;
+      background-color: #42a5f5;
+      position: absolute;
+      top: 850px;
+      left: 0px;
+  }
+
+  .bstripe87 {
+    width: 1000px;
+    height: 10px;
+      background-color: #64b5f6;
+      position: absolute;
+      top: 860px;
+      left: 0px;
+  }
+
+  .bstripe88 {
+    width: 1000px;
+    height: 10px;
+      background-color: #90caf9;
+      position: absolute;
+      top: 870px;
+      left: 0px;
+  }
+
+  .bstripe89 {
+    width: 1000px;
+    height: 10px;
+      background-color: #bbdefb;
+      position: absolute;
+      top: 880px;
+      left: 0px;
+  }
+
+  .bstripe90 {
+    width: 1000px;
+    height: 10px;
+      background-color: #e3f2fd;
+      position: absolute;
+      top: 890px;
+      left: 0px;
+  }
+
+
+
+
+
+
+      .bstripe91 {
+    width: 1000px;
+    height: 10px;
+      
+      background-color: #0d47a1;
+      position: absolute;
+      top: 900px;
+      left: 00px;
+  }
+
+  .bstripe92 {
+    width: 1000px;
+    height: 10px;
+      background-color: #1565c0;
+      position: absolute;
+      top: 910px;
+      left: 0px;
+  }
+
+  .bstripe93 {
+    width: 1000px;
+    height: 10px;
+      background-color: #1976d2;
+      position: absolute;
+      top: 920px;
+      left: 0px;
+  }
+
+  .bstripe94 {
+    width: 1000px;
+    height: 10px;
+      background-color: #1e88e5;
+      position: absolute;
+      top: 930px;
+      left: 0px;
+  }
+
+  .bstripe95 {
+    width: 1000px;
+    height: 10px;
+      background-color: #2196f3;
+      position: absolute;
+      top: 940px;
+      left: 0px;
+  }
+
+  .bstripe96 {
+    width: 1000px;
+    height: 10px;
+      background-color: #42a5f5;
+      position: absolute;
+      top: 950px;
+      left: 0px;
+  }
+
+  .bstripe97 {
+    width: 1000px;
+    height: 10px;
+      background-color: #64b5f6;
+      position: absolute;
+      top: 960px;
+      left: 0px;
+  }
+
+  .bstripe98 {
+    width: 1000px;
+    height: 10px;
+      background-color: #90caf9;
+      position: absolute;
+      top: 970px;
+      left: 0px;
+  }
+
+  .bstripe99 {
+    width: 1000px;
+    height: 10px;
+      background-color: #bbdefb;
+      position: absolute;
+      top: 980px;
+      left: 0px;
+  }
+
+  .bstripe100 {
+    width: 1000px;
+    height: 10px;
+      background-color: #e3f2fd;
+      position: absolute;
+      top: 990px;
+      left: 0px;
+  }
 
 
 
@@ -459,14 +1055,15 @@ body{
 
 .TypefaceHELLO {
   position: relative;
-    bottom: -192px;
-    left: 50vw;
-    width: 50vw;
+    bottom: 90px;
+    left: 330px;
+    width: 300px;
     height: 100px;
     z-index: 2;
+    pointer-events: none;
+
 }
 
-/* Y2 Y2 Y2 Y2 Y2 Y2 Y2 Y2 Y2
 
 /* X4 X4 X4 X4 X4 X4 X4 */ 
 
@@ -535,13 +1132,22 @@ body{
       left: 30px;
     }
 
-    .bltX4Y9HHH {
+    .boxX4Y9HHH {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 10px;
+      left: 30px;
+    }
+
+    .bltX4Y10HHH {
       width: 0;
       height: 0;
       border-bottom: 10px solid white;
       border-right: 10px solid transparent;
       position: absolute;
-      top: 10px;
+      top: 0px;
       left: 30px;
     }
 
@@ -1288,6 +1894,7 @@ body{
 
 
 #Y2 {
+
 }
 
 
