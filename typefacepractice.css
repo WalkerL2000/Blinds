@@ -22,7 +22,7 @@ body{
 .background{
 	position: relative;
 	top: 50%;
-	left: 10px
+	left: 10px;
 	width: 1000px;
 	height: 500px;
 
@@ -203,7 +203,7 @@ body{
       left: 0px;
   }
 
-  .bxstripe20 {
+  .bstripe20 {
     width: 1000px;
     height: 10px;
       background-color: #e3f2fd;
@@ -1071,7 +1071,7 @@ body{
   .trtX4Y2HHH {
       width: 0;
       height: 0;
-      border-top: 10px solid white;
+      border-top: 10px solid #0d47a1;
       border-left: 10px solid transparent;
       position: absolute;
       top: 80px;
@@ -1081,7 +1081,7 @@ body{
     .boxX4Y3HHH {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #1565c0;
       position: absolute;
       top: 70px;
       left: 30px;
@@ -1090,7 +1090,7 @@ body{
     .boxX4Y4HHH {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #1976d2;
       position: absolute;
       top: 60px;
       left: 30px;
@@ -1099,7 +1099,7 @@ body{
     .boxX4Y5HHH {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #1e88e5;
       position: absolute;
       top: 50px;
       left: 30px;
@@ -1107,7 +1107,7 @@ body{
   .boxX4Y6HHH {
      width: 10px;
       height: 10px;
-      background: white;
+      background: #2196f3;
       position: absolute;
       top: 40px;
       left: 30px;
@@ -1116,7 +1116,7 @@ body{
     .bltX4Y7HHH {
       width: 0;
       height: 0;
-      border-bottom: 10px solid white;
+      border-bottom: 10px solid #42a5f5;
       border-right: 10px solid transparent;
       position: absolute;
       top: 30px;
@@ -1126,7 +1126,7 @@ body{
     .boxX4Y8HHH {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #64b5f6;
       position: absolute;
       top: 20px;
       left: 30px;
@@ -1135,7 +1135,7 @@ body{
     .boxX4Y9HHH {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #90caf9;
       position: absolute;
       top: 10px;
       left: 30px;
@@ -1144,7 +1144,7 @@ body{
     .bltX4Y10HHH {
       width: 0;
       height: 0;
-      border-bottom: 10px solid white;
+      border-bottom: 10px solid #bbdefb;
       border-right: 10px solid transparent;
       position: absolute;
       top: 0px;
@@ -1156,7 +1156,7 @@ body{
   .trtX5Y6HHH {
       width: 0;
       height: 0;
-      border-top: 10px solid white;
+      border-top: 10px solid #2196f3;
       border-left: 10px solid transparent;
       position: absolute;
       top: 40px;
@@ -1169,7 +1169,7 @@ body{
   .boxX6Y6HHH {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #2196f3;
       position: absolute;
       top: 40px;
       left: 50px;
@@ -1181,7 +1181,7 @@ body{
  .boxX7Y6HHH {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #2196f3;
       position: absolute;
       top: 40px;
       left: 60px;
@@ -1192,7 +1192,7 @@ body{
   .trtX8Y2HHH {
       width: 0;
       height: 0;
-      border-top: 10px solid white;
+      border-top: 10px solid #0d47a1;
       border-left: 10px solid transparent;
       position: absolute;
       top: 80px;
@@ -1202,7 +1202,7 @@ body{
     .boxX8Y3HHH {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #1565c0;
       position: absolute;
       top: 70px;
       left: 70px;
@@ -1211,7 +1211,7 @@ body{
     .boxX8Y4HHH {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #1976d2;
       position: absolute;
       top: 60px;
       left: 70px;
@@ -1220,7 +1220,7 @@ body{
     .boxX8Y5HHH {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #1e88e5;
       position: absolute;
       top: 50px;
       left: 70px;
@@ -1228,7 +1228,7 @@ body{
   .boxX8Y6HHH {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #2196f3;
       position: absolute;
       top: 40px;
       left: 70px;
@@ -1237,7 +1237,7 @@ body{
     .boxX8Y7HHH {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #42a5f5;
       position: absolute;
       top: 30px;
       left: 70px;
@@ -1246,20 +1246,29 @@ body{
     .boxX8Y8HHH {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #64b5f6;
       position: absolute;
       top: 20px;
       left: 70px;
     }
 
-
-    .bltX8Y9HHH {
-      width: 0;
-      height: 0;
-      border-bottom: 10px solid white;
-      border-right: 10px solid transparent;
+    .boxX8Y9HHH {
+      width: 10px;
+      height: 10px;
+      background: #90caf9;
       position: absolute;
       top: 10px;
+      left: 70px;
+    }
+
+
+    .bltX8Y10HHH {
+      width: 0;
+      height: 0;
+      border-bottom: 10px solid #bbdefb;
+      border-right: 10px solid transparent;
+      position: absolute;
+      top: 0px;
       left: 70px;
     }
 
@@ -1274,7 +1283,7 @@ body{
   .trtX4Y2EEE {
       width: 0;
       height: 0;
-      border-top: 10px solid white;
+      border-top: 10px solid #0d47a1;
       border-left: 10px solid transparent;
       position: absolute;
       top: 80px;
@@ -1284,7 +1293,7 @@ body{
     .boxX4Y3EEE {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #1565c0;
       position: absolute;
       top: 70px;
       left: 90px;
@@ -1293,7 +1302,7 @@ body{
     .boxX4Y4EEE {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #1976d2;
       position: absolute;
       top: 60px;
       left: 90px;
@@ -1302,7 +1311,7 @@ body{
     .boxX4Y5EEE {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #1e88e5;
       position: absolute;
       top: 50px;
       left: 90px;
@@ -1310,39 +1319,48 @@ body{
   .boxX4Y6EEE {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #2196f3;
       position: absolute;
       top: 40px;
       left: 90px;
     }
 
-    .bltX4Y7EEE {
-      width: 0;
-      height: 0;
-      border-bottom: 10px solid white;
-      border-right: 10px solid transparent;
+    .boxX4Y7EEE {
+      width: 10px;
+      height: 10px;
+      background: #42a5f5;
       position: absolute;
-
       top: 30px;
       left: 90px;
     }
 
-    .boxX4Y8EEE {
-      width: 10px;
-      height: 10px;
-      background: white;
+    .bltX4Y8EEE {
+      width: 0;
+      height: 0;
+      border-bottom: 10px solid #64b5f6;
+      border-right: 10px solid transparent;
       position: absolute;
+
       top: 20px;
       left: 90px;
     }
 
-    .bltX4Y9EEE {
-      width: 0;
-      height: 0;
-      border-bottom: 10px solid white;
-      border-right: 10px solid transparent;
+    .boxX4Y9EEE {
+      width: 10px;
+      height: 10px;
+      background: #90caf9;
       position: absolute;
       top: 10px;
+      left: 90px;
+    }
+
+    .bltX4Y10EEE {
+      width: 0;
+      height: 0;
+      border-bottom: 10px solid #bbdefb;
+      border-right: 10px solid transparent;
+      position: absolute;
+      top: 0px;
       left: 90px;
     }
 
@@ -1351,27 +1369,27 @@ body{
    .boxX5Y2EEE {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #0d47a1;
       position: absolute;
       top: 80px;
       left: 100px;
     }
 
-    .boxX5Y5EEE {
+    .boxX5Y6EEE {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #2196f3;
       position: absolute;
-      top: 50px;
+      top: 40px;
       left: 100px;
     }
 
-    .boxX5Y8EEE {
+    .boxX5Y9EEE {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #90caf9;
       position: absolute;
-      top: 20px;
+      top: 10px;
       left: 100px;
     }
 
@@ -1381,7 +1399,7 @@ body{
   .boxX6Y2EEE {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #0d47a1;
       position: absolute;
       top: 80px;
       left: 110px;
@@ -1389,21 +1407,21 @@ body{
 
 
 
-  .boxX6Y5EEE {
+  .boxX6Y6EEE {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #2196f3;
       position: absolute;
-      top: 50px;
+      top: 40px;
       left: 110px;
     }
 
-    .boxX6Y8EEE {
+    .boxX6Y9EEE {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #90caf9;
       position: absolute;
-      top: 20px;
+      top: 10px;
       left: 110px;
     }
 
@@ -1412,7 +1430,7 @@ body{
   .bltX7Y2EEE {
       width: 0;
       height: 0;
-      border-bottom: 10px solid white;
+      border-bottom: 10px solid #0d47a1;
       border-right: 10px solid transparent;
       position: absolute;
       top: 80px;
@@ -1420,24 +1438,24 @@ body{
     }
 
 
-    .bltX7Y5EEE {
+    .bltX7Y6EEE {
       width: 0;
       height: 0;
-      border-bottom: 10px solid white;
+      border-bottom: 10px solid #2196f3;
       border-right: 10px solid transparent;
       position: absolute;
-      top: 50px;
+      top: 40px;
       left: 120px;
     }
 
 
-    .bltX7Y8EEE {
+    .bltX7Y9EEE {
       width: 0;
       height: 0;
-      border-bottom: 10px solid white;
+      border-bottom: 10px solid #90caf9;
       border-right: 10px solid transparent;
       position: absolute;
-      top: 20px;
+      top: 10px;
       left: 120px;
     }
 
@@ -1456,7 +1474,7 @@ body{
   .trtX4Y2LLL {
       width: 0;
       height: 0;
-      border-top: 10px solid white;
+      border-top: 10px solid #0d47a1;
       border-left: 10px solid transparent;
       position: absolute;
       top: 80px;
@@ -1466,7 +1484,7 @@ body{
     .bltX4Y3LLL {
       width: 0;
       height: 0;
-      border-bottom: 10px solid white;
+      border-bottom: 10px solid #1565c0;
       border-right: 10px solid transparent;
       position: absolute;
       top: 70px;
@@ -1476,7 +1494,7 @@ body{
     .boxX4Y4LLL {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #1976d2;
       position: absolute;
       top: 60px;
       left: 140px;
@@ -1485,7 +1503,7 @@ body{
     .boxX4Y5LLL {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #1e88e5;
       position: absolute;
       top: 50px;
       left: 140px;
@@ -1493,7 +1511,7 @@ body{
   .boxX4Y6LLL {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #2196f3;
       position: absolute;
       top: 40px;
       left: 140px;
@@ -1502,7 +1520,7 @@ body{
     .boxX4Y7LLL {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #42a5f5;
       position: absolute;
       top: 30px;
       left: 140px;
@@ -1511,19 +1529,28 @@ body{
     .boxX4Y8LLL {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #64b5f6;
       position: absolute;
       top: 20px;
       left: 140px;
     }
 
-    .bltX4Y9LLL {
-      width: 0;
-      height: 0;
-      border-bottom: 10px solid white;
-      border-right: 10px solid transparent;
+    .boxX4Y9LLL {
+      width: 10px;
+      height: 10px;
+      background: #90caf9;
       position: absolute;
       top: 10px;
+      left: 140px;
+    }
+
+    .bltX4Y10LLL {
+      width: 0;
+      height: 0;
+      border-bottom: 10px solid #bbdefb;
+      border-right: 10px solid transparent;
+      position: absolute;
+      top: 0px;
       left: 140px;
     }
 
@@ -1532,7 +1559,7 @@ body{
    .boxX5Y2LLL {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #0d47a1;
       position: absolute;
       top: 80px;
       left: 150px;
@@ -1545,7 +1572,7 @@ body{
   .boxX6Y2LLL {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #0d47a1;
       position: absolute;
       top: 80px;
       left: 160px;
@@ -1558,7 +1585,7 @@ body{
   .bltX7Y2LLL {
       width: 0;
       height: 0;
-      border-bottom: 10px solid white;
+      border-bottom: 10px solid #0d47a1;
       border-right: 10px solid transparent;
       position: absolute;
       top: 80px;
@@ -1580,7 +1607,7 @@ body{
   .trtX4Y2LLL2 {
       width: 0;
       height: 0;
-      border-top: 10px solid white;
+      border-top: 10px solid #0d47a1;
       border-left: 10px solid transparent;
       position: absolute;
       top: 80px;
@@ -1590,7 +1617,7 @@ body{
     .bltX4Y3LLL2 {
       width: 0;
       height: 0;
-      border-bottom: 10px solid white;
+      border-bottom: 10px solid #1565c0;
       border-right: 10px solid transparent;
       position: absolute;
       top: 70px;
@@ -1600,7 +1627,7 @@ body{
     .boxX4Y4LLL2 {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #1976d2;
       position: absolute;
       top: 60px;
       left: 190px;
@@ -1609,7 +1636,7 @@ body{
     .boxX4Y5LLL2 {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #1e88e5;
       position: absolute;
       top: 50px;
       left: 190px;
@@ -1617,7 +1644,7 @@ body{
   .boxX4Y6LLL2 {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #2196f3;
       position: absolute;
       top: 40px;
       left: 190px;
@@ -1626,7 +1653,7 @@ body{
     .boxX4Y7LLL2 {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #42a5f5;
       position: absolute;
       top: 30px;
       left: 190px;
@@ -1635,19 +1662,28 @@ body{
     .boxX4Y8LLL2 {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #64b5f6;
       position: absolute;
       top: 20px;
       left: 190px;
     }
 
-    .bltX4Y9LLL2 {
-      width: 0;
-      height: 0;
-      border-bottom: 10px solid white;
-      border-right: 10px solid transparent;
+     .boxX4Y9LLL2 {
+      width: 10px;
+      height: 10px;
+      background: #90caf9;
       position: absolute;
       top: 10px;
+      left: 190px;
+    }
+
+    .bltX4Y10LLL2 {
+      width: 0;
+      height: 0;
+      border-bottom: 10px solid #bbdefb;
+      border-right: 10px solid transparent;
+      position: absolute;
+      top: 0px;
       left: 190px;
     }
 
@@ -1656,7 +1692,7 @@ body{
    .boxX5Y2LLL2 {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #0d47a1;
       position: absolute;
       top: 80px;
       left: 200px;
@@ -1669,7 +1705,7 @@ body{
   .boxX6Y2LLL2 {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #0d47a1;
       position: absolute;
       top: 80px;
       left: 210px;
@@ -1682,7 +1718,7 @@ body{
   .bltX7Y2LLL2 {
       width: 0;
       height: 0;
-      border-bottom: 10px solid white;
+      border-bottom: 10px solid #0d47a1;
       border-right: 10px solid transparent;
       position: absolute;
       top: 80px;
@@ -1694,29 +1730,11 @@ body{
 /* X4 X4 X4 X4 X4 X4 X4 */ 
 
 
-  .trtX4Y2ooo {
+  .trtX4Y4ooo {
       width: 0;
       height: 0;
-      border-top: 10px solid white;
+      border-top: 10px solid #1976d2;
       border-left: 10px solid transparent;
-      position: absolute;
-      top: 80px;
-      left: 240px;
-    }
-
-    .boxX4Y3ooo {
-      width: 10px;
-      height: 10px;
-      background: white;
-      position: absolute;
-      top: 70px;
-      left: 240px;
-    }
-
-    .boxX4Y4ooo {
-      width: 10px;
-      height: 10px;
-      background: white;
       position: absolute;
       top: 60px;
       left: 240px;
@@ -1725,68 +1743,79 @@ body{
     .boxX4Y5ooo {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #1e88e5;
       position: absolute;
       top: 50px;
       left: 240px;
     }
-  .boxX4Y6ooo {
+
+    .boxX4Y6ooo {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #2196f3;
       position: absolute;
       top: 40px;
       left: 240px;
     }
 
-    .bltX4Y7ooo {
-      width: 0;
-      height: 0;
-      border-bottom: 10px solid white;
-      border-right: 10px solid transparent;
+    .boxX4Y7ooo {
+      width: 10px;
+      height: 10px;
+      background: #42a5f5;
       position: absolute;
-
       top: 30px;
       left: 240px;
     }
-
-    .boxX4Y8ooo {
-      width: 10px;
-      height: 10px;
-      background: white;
-      position: absolute;
-      top: 20px;
-      left: 240px;
-    }
-
-    .bltX4Y9ooo {
-      width: 0;
-      height: 0;
-      border-bottom: 10px solid white;
-      border-right: 10px solid transparent;
-      position: absolute;
-      top: 10px;
-      left: 240px;
-    }
+  
 
 /* X5 X5 X5 X5 X5 X5 X5 */
 
-   .boxX5Y2ooo {
-      width: 10px;
-      height: 10px;
-      background: white;
+   .trtX5Y2ooo {
+      width: 0;
+      height: 0;
+      border-top: 10px solid #0d47a1;
+      border-left: 10px solid transparent;
       position: absolute;
       top: 80px;
       left: 250px;
     }
 
 
+    .bltX5Y3ooo {
+      width: 0;
+      height: 0;
+      border-bottom: 10px solid #1565c0;
+      border-right: 10px solid transparent;
+      position: absolute;
+      top: 70px;
+      left: 250px;
+    }
+
     .boxX5Y8ooo {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #64b5f6;
       position: absolute;
       top: 20px;
+      left: 250px;
+    }
+
+    .boxX5Y9ooo {
+      width: 10px;
+      height: 10px;
+      background: #90caf9;
+      position: absolute;
+      top: 10px;
+      left: 250px;
+    }
+
+    .bltX5Y10ooo {
+      width: 0;
+      height: 0;
+      border-bottom: 10px solid #bbdefb;
+      border-right: 10px solid transparent;
+      position: absolute;
+      top: 0px;
       left: 250px;
     }
 
@@ -1796,19 +1825,19 @@ body{
   .boxX6Y2ooo {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #0d47a1;
       position: absolute;
       top: 80px;
       left: 260px;
     }
 
 
-    .boxX6Y8ooo {
+    .boxX6Y9ooo {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #90caf9;
       position: absolute;
-      top: 20px;
+      top: 10px;
       left: 260px;
     }
 
@@ -1817,78 +1846,101 @@ body{
   .boxX7Y2ooo {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #0d47a1;
       position: absolute;
       top: 80px;
       left: 270px;
     }
 
 
-    .boxX7Y8ooo {
+    .boxX7Y9ooo {
      width: 10px;
       height: 10px;
-      background: white;
+      background: #90caf9;
       position: absolute;
-      top: 20px;
+      top: 10px;
       left: 270px;
     }
 
 /* x8 x8 x8 x8 x8 x8 x8 x8 x8 x8 x8 */
 
-    .boxX8Y3ooo {
+    .boxX8Y2ooo {
       width: 10px;
       height: 10px;
-      background: white;
+      background: #0d47a1;
+      position: absolute;
+      top: 80px;
+      left: 280px;
+    }
+
+
+    .boxX8Y3ooo {
+     width: 10px;
+      height: 10px;
+      background: #1565c0;
       position: absolute;
       top: 70px;
       left: 280px;
     }
 
 
-    .boxX8Y4ooo {
-     width: 10px;
-      height: 10px;
-      background: white;
-      position: absolute;
-      top: 60px;
-      left: 280px;
-    }
-
-    .boxX8Y5ooo {
-     width: 10px;
-      height: 10px;
-      background: white;
-      position: absolute;
-      top: 50px;
-      left: 280px;
-    }
-
-    .boxX8Y6ooo {
-     width: 10px;
-      height: 10px;
-      background: white;
-      position: absolute;
-      top: 40px;
-      left: 280px;
-    }
-
-    .boxX8Y7ooo {
-     width: 10px;
-      height: 10px;
-      background: white;
-      position: absolute;
-      top: 30px;
-      left: 280px;
-    }
-
-    .bltX8Y8ooo {
+    .trtX8Y8ooo {
       width: 0;
       height: 0;
-      border-bottom: 10px solid white;
-      border-right: 10px solid transparent;
+      border-top: 10px solid #64b5f6;
+      border-left: 10px solid transparent;
       position: absolute;
       top: 20px;
       left: 280px;
+    }
+
+    .bltX8Y9ooo {
+      width: 0;
+      height: 0;
+      border-bottom: 10px solid #90caf9;
+      border-right: 10px solid transparent;
+      position: absolute;
+      top: 10px;
+      left: 280px;
+    }
+
+/* x9 x9 x9 x9 x9 x9 x9 x9 x9 */
+
+    .boxX9Y4ooo {
+     width: 10px;
+      height: 10px;
+      background: #1976d2;
+      position: absolute;
+      top: 60px;
+      left: 290px;
+    }
+
+    .boxX9Y5ooo {
+     width: 10px;
+      height: 10px;
+      background: #1e88e5;
+      position: absolute;
+      top: 50px;
+      left: 290px;
+    }
+
+    .boxX9Y6ooo {
+     width: 10px;
+      height: 10px;
+      background: #2196f3;
+      position: absolute;
+      top: 40px;
+      left: 290px;
+    }
+
+    .bltX9Y7ooo {
+     width: 0;
+      height: 0;
+      border-bottom: 10px solid #42a5f5;
+      border-right: 10px solid transparent;
+      position: absolute;
+      top: 30px;
+      left: 290px;
     }
 
 
