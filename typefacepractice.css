@@ -3,31 +3,33 @@ body{
 
 
 .everything {
-	transform: scale(0.7);
+  transform: scale(0.7);
+  position: absolute;
+  top: -5%;
 }
 
 
 
 .letters {
-	width: 1000px;
-	height: 1000px;
-	position: absolute;
-	top: 0px;
-	left: 10px;
-	pointer-events: none;
+  width: 1000px;
+  height: 1000px;
+  position: absolute;
+  top: 0px;
+  left: 10px;
+  pointer-events: none;
 
 
 }
 
 .background{
-	position: relative;
-	top: 50%;
-	left: 10px;
-	width: 1000px;
-	height: 500px;
+  position: relative;
+  top: 50%;
+  left: 10px;
+  width: 1000px;
+  height: 500px;
 
 }
-	.bstripe1 {
+  .bstripe1 {
     width: 1000px;
     height: 10px;
       
@@ -991,7 +993,7 @@ body{
 
 
 
-	.active1 {
+  .active1 {
   background: #e3f2fd;
   transition: all 0.5s ease
 }
@@ -1959,94 +1961,92 @@ body{
 
 
 /*
-	.bstripe1:hover {
- 		background: #e3f2fd;
- 		transition-delay: 
- 	}
+  .bstripe1:hover {
+    background: #e3f2fd;
+    transition-delay: 
+  }
 
- 	.bstripe2:hover {
- 		background: #bbdefb;
- 	}
+  .bstripe2:hover {
+    background: #bbdefb;
+  }
 
- 	.bstripe3:hover {
- 		background: #90caf9;
- 	}
+  .bstripe3:hover {
+    background: #90caf9;
+  }
 
- 	.bstripe4:hover {
- 		background: #64b5f6;
- 	}
+  .bstripe4:hover {
+    background: #64b5f6;
+  }
 
- 	.bstripe5:hover {
- 		background: #42a5f5;
- 	}
+  .bstripe5:hover {
+    background: #42a5f5;
+  }
 
- 	.bstripe6:hover {
- 		background: #2196f3;
- 	}
+  .bstripe6:hover {
+    background: #2196f3;
+  }
 
- 	.bstripe7:hover {
- 		background: #1e88e5;
+  .bstripe7:hover {
+    background: #1e88e5;
 
- 	}
+  }
 
- 	.bstripe8:hover {
- 		background: #1976d2;
- 	}
+  .bstripe8:hover {
+    background: #1976d2;
+  }
 
- 	.bstripe9:hover {
- 		background: #1565c0;
- 	}
+  .bstripe9:hover {
+    background: #1565c0;
+  }
 
- 	.bstripe10:hover {
- 		background: #0d47a1;
- 	}
-
-
+  .bstripe10:hover {
+    background: #0d47a1;
+  }
 
 
 
-	.bstripe11:hover {
- 		background: #e3f2fd;
- 	}
-
- 	.bstripe12:hover {
- 		background: #bbdefb;
- 	}
-
- 	.bstripe13:hover {
- 		background: #90caf9;
- 	}
-
- 	.bstripe14:hover {
- 		background: #64b5f6;
- 	}
-
- 	.bstripe15:hover {
- 		background: #42a5f5;
- 	}
-
- 	.bstripe16:hover {
- 		background: #2196f3;
- 	}
-
- 	.bstripe17:hover {
- 		background: #1e88e5;
-
- 	}
-
- 	.bstripe18:hover {
- 		background: #1976d2;
- 	}
-
- 	.bstripe19:hover {
- 		background: #1565c0;
- 	}
-
- 	.bstripe20:hover {
- 		background: #0d47a1;
- 	}
 
 
+  .bstripe11:hover {
+    background: #e3f2fd;
+  }
+
+  .bstripe12:hover {
+    background: #bbdefb;
+  }
+
+  .bstripe13:hover {
+    background: #90caf9;
+  }
+
+  .bstripe14:hover {
+    background: #64b5f6;
+  }
+
+  .bstripe15:hover {
+    background: #42a5f5;
+  }
+
+  .bstripe16:hover {
+    background: #2196f3;
+  }
+
+  .bstripe17:hover {
+    background: #1e88e5;
+
+  }
+
+  .bstripe18:hover {
+    background: #1976d2;
+  }
+
+  .bstripe19:hover {
+    background: #1565c0;
+  }
+
+  .bstripe20:hover {
+    background: #0d47a1;
+  }
 
 
 
@@ -2055,96 +2055,98 @@ body{
 
 
 
- 	.bstripe21:hover {
- 		background: #e3f2fd;
- 	}
-
- 	.bstripe22:hover {
- 		background: #bbdefb;
- 	}
-
- 	.bstripe23:hover {
- 		background: #90caf9;
- 	}
-
- 	.bstripe24:hover {
- 		background: #64b5f6;
- 	}
-
- 	.bstripe25:hover {
- 		background: #42a5f5;
- 	}
-
- 	.bstripe26:hover {
- 		background: #2196f3;
- 	}
-
- 	.bstripe27:hover {
- 		background: #1e88e5;
-
- 	}
-
- 	.bstripe28:hover {
- 		background: #1976d2;
- 	}
-
- 	.bstripe29:hover {
- 		background: #1565c0;
- 	}
-
- 	.bstripe30:hover {
- 		background: #0d47a1;
- 	}
 
 
+  .bstripe21:hover {
+    background: #e3f2fd;
+  }
+
+  .bstripe22:hover {
+    background: #bbdefb;
+  }
+
+  .bstripe23:hover {
+    background: #90caf9;
+  }
+
+  .bstripe24:hover {
+    background: #64b5f6;
+  }
+
+  .bstripe25:hover {
+    background: #42a5f5;
+  }
+
+  .bstripe26:hover {
+    background: #2196f3;
+  }
+
+  .bstripe27:hover {
+    background: #1e88e5;
+
+  }
+
+  .bstripe28:hover {
+    background: #1976d2;
+  }
+
+  .bstripe29:hover {
+    background: #1565c0;
+  }
+
+  .bstripe30:hover {
+    background: #0d47a1;
+  }
 
 
 
- 	.bstripe31:hover {
- 		background: #e3f2fd;
- 		transition-delay: 
- 	}
 
- 	.bstripe32:hover {
- 		background: #bbdefb;
- 	}
 
- 	.bstripe33:hover {
- 		background: #90caf9;
- 	}
+  .bstripe31:hover {
+    background: #e3f2fd;
+    transition-delay: 
+  }
 
- 	.bstripe34:hover {
- 		background: #64b5f6;
- 	}
+  .bstripe32:hover {
+    background: #bbdefb;
+  }
 
- 	.bstripe35:hover {
- 		background: #42a5f5;
- 	}
+  .bstripe33:hover {
+    background: #90caf9;
+  }
 
- 	.bstripe36:hover {
- 		background: #2196f3;
- 	}
+  .bstripe34:hover {
+    background: #64b5f6;
+  }
 
- 	.bstripe37:hover {
- 		background: #1e88e5;
+  .bstripe35:hover {
+    background: #42a5f5;
+  }
 
- 	}
+  .bstripe36:hover {
+    background: #2196f3;
+  }
 
- 	.bstripe38:hover {
- 		background: #1976d2;
- 	}
+  .bstripe37:hover {
+    background: #1e88e5;
 
- 	.bstripe39:hover {
- 		background: #1565c0;
- 	}
+  }
 
- 	.bstripe40:hover {
- 		background: #0d47a1;
- 	}
+  .bstripe38:hover {
+    background: #1976d2;
+  }
+
+  .bstripe39:hover {
+    background: #1565c0;
+  }
+
+  .bstripe40:hover {
+    background: #0d47a1;
+  }
 
 */
 
 
 
 
- 	
+  
