@@ -3,9 +3,10 @@ body{
 
 
 .everything {
-  transform: scale(0.7);
+  transform: scale(0.6);
   position: absolute;
   top: -5%;
+  right: 10%;
 }
 
 
